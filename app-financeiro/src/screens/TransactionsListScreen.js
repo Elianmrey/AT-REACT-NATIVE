@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { View, FlatList, Text, Alert, Button, StyleSheet } from 'react-native';
 import OrdenacaoFiltro from '../components/OrdenationFilter'; 
 import TransacaoItemList from '../components/TransacaoItemList';
