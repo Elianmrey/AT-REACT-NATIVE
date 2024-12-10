@@ -1,4 +1,3 @@
-
 import { Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
 
 const ImageCard = ({ image, title, description, onPress }) => {
