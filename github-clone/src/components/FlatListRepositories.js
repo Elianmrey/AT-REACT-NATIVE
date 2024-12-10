@@ -1,4 +1,3 @@
-
 import { FlatList, ActivityIndicator, RefreshControl } from 'react-native';
 import { getRepositories } from '../api/githubApi';
 import RepositoryCard from './RepositoryCard';

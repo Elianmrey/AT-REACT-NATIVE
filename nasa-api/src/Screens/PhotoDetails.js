@@ -1,4 +1,3 @@
-
 import { Text, Image, View, StyleSheet, useWindowDimensions } from 'react-native';
 
 const PhotoDetails = ({ route }) => {

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, Platform, StatusBar,useWindowDimensions } from 'react-native';
  import { API_TOKEN as apiToken } from '../../env'; // meu token para ñ ter que copiar ele no campo de tokem e poder testar
 import { Image } from 'react-native';

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { View, Text, StyleSheet, Image, Button, useWindowDimensions } from 'react-native';
 import { getUserInfo } from '../api/githubApi';
 
